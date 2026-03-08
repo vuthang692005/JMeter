@@ -1,0 +1,671 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1772962470273,903,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-9,text,true,,90872,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,262,0,136
+1772962470273,262,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-9,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,262,0,136
+1772962470536,640,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-9,text,true,,90668,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,385,0,250
+1772962470273,903,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-14,text,true,,90871,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,262,0,136
+1772962470273,262,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-14,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,262,0,136
+1772962470535,641,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-14,text,true,,90667,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,383,0,247
+1772962470274,903,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-20,text,true,,90871,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,261,0,135
+1772962470274,261,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-20,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,261,0,135
+1772962470536,641,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-20,text,true,,90667,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,382,0,246
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-6,text,true,,91369,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,263,0,137
+1772962470273,263,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-6,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,263,0,137
+1772962470536,642,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-6,text,true,,91165,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,382,0,246
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-15,text,true,,91490,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,262,0,136
+1772962470273,262,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-15,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,262,0,136
+1772962470535,643,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-15,text,true,,91286,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,386,0,251
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-8,text,true,,90872,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,262,0,136
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-12,text,true,,90872,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,262,0,136
+1772962470273,262,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-12,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,262,0,136
+1772962470273,262,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-8,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,262,0,136
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-10,text,true,,90872,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,262,0,136
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-2,text,true,,91510,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,260,0,136
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-7,text,true,,90871,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,260,0,136
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-11,text,true,,90871,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,262,0,136
+1772962470273,260,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-2,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,260,0,136
+1772962470273,262,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-11,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,262,0,136
+1772962470533,645,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-2,text,true,,91306,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,388,0,249
+1772962470536,642,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-11,text,true,,90667,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,385,0,250
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-13,text,true,,90872,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,263,0,136
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-5,text,true,,90872,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,262,0,136
+1772962470273,260,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-7,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,260,0,136
+1772962470273,263,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-13,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,263,0,136
+1772962470533,645,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-7,text,true,,90667,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,403,0,253
+1772962470536,642,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-13,text,true,,90668,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,385,0,250
+1772962470274,904,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-19,text,true,,90872,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,261,0,135
+1772962470273,262,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-10,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,262,0,136
+1772962470274,261,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-19,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,261,0,135
+1772962470535,643,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-10,text,true,,90668,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,401,0,252
+1772962470535,643,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-8,text,true,,90668,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,401,0,252
+1772962470535,643,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-19,text,true,,90668,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,386,0,251
+1772962470535,643,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-12,text,true,,90668,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,386,0,248
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-3,text,true,,90872,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,259,0,136
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-17,text,true,,90872,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,262,0,136
+1772962470273,259,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-3,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,259,0,136
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-18,text,true,,90872,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,259,0,136
+1772962470533,645,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-3,text,true,,90668,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,403,0,254
+1772962470273,262,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-17,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,262,0,136
+1772962470273,259,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-18,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,259,0,136
+1772962470535,643,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-17,text,true,,90668,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,401,0,252
+1772962470273,262,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-5,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,262,0,136
+1772962470533,645,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-18,text,true,,90668,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,403,0,254
+1772962470535,643,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-5,text,true,,90668,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,401,0,251
+1772962470273,905,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-4,text,true,,90871,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,260,0,136
+1772962470273,260,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-4,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,260,0,136
+1772962470533,645,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-4,text,true,,90667,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,386,0,249
+1772962470273,906,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-16,text,true,,90872,446,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,262,0,136
+1772962470273,262,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-16,,true,,204,223,20,32,http://vi.wikipedia.org/wiki/Tiêu_điểm,262,0,136
+1772962470536,643,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-16,text,true,,90668,223,20,32,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,400,0,251
+1772962470270,1134,GET Home Page,200,OK,Thread Group 2 2-1,text,true,,162320,594,2,32,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,262,0,139
+1772962470270,262,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-1,,true,,172,191,2,32,http://vi.wikipedia.org/,262,0,139
+1772962470533,382,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-1,text,true,,1638,191,2,32,https://vi.wikipedia.org/,382,0,249
+1772962470915,489,GET Home Page-2,200,OK,Thread Group 2 2-1,text,true,,160510,212,2,32,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,121,0,0
+1772962470270,1134,GET Home Page,200,OK,Thread Group 1 1-1,text,true,,162958,594,10,32,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,265,0,139
+1772962470270,265,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-1,,true,,172,191,10,32,http://vi.wikipedia.org/,265,0,139
+1772962470535,381,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-1,text,true,,1638,191,10,32,https://vi.wikipedia.org/,381,0,251
+1772962470916,488,GET Home Page-2,200,OK,Thread Group 1 1-1,text,true,,161148,212,10,32,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,120,0,0
+1772962470369,1178,GET Home Page,200,OK,Thread Group 1 1-2,text,true,,162320,594,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,286,0,163
+1772962470369,286,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-2,,true,,172,191,10,33,http://vi.wikipedia.org/,286,0,163
+1772962470655,376,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-2,text,true,,1638,191,10,33,https://vi.wikipedia.org/,376,0,262
+1772962471031,516,GET Home Page-2,200,OK,Thread Group 1 1-2,text,true,,160510,212,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,132,0,0
+1772962470273,1378,/wiki/Tiêu_điểm,200,OK,Thread Group 3 3-1,text,true,,92016,446,20,33,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,260,0,136
+1772962470273,260,/wiki/Tiêu_điểm-0,301,Moved Permanently,Thread Group 3 3-1,,true,,204,223,20,33,http://vi.wikipedia.org/wiki/Tiêu_điểm,260,0,136
+1772962470533,1118,/wiki/Tiêu_điểm-1,200,OK,Thread Group 3 3-1,text,true,,91812,223,20,33,https://vi.wikipedia.org/wiki/Ti%C3%AAu_%C4%91i%E1%BB%83m,751,0,249
+1772962470469,1307,GET Home Page,200,OK,Thread Group 1 1-3,text,true,,162320,594,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,313,0,186
+1772962470469,313,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-3,,true,,172,191,10,33,http://vi.wikipedia.org/,313,0,186
+1772962470782,371,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-3,text,true,,1638,191,10,33,https://vi.wikipedia.org/,371,0,250
+1772962471153,623,GET Home Page-2,200,OK,Thread Group 1 1-3,text,true,,160510,212,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,133,0,0
+1772962470568,1345,GET Home Page,200,OK,Thread Group 1 1-4,text,true,,162320,594,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,347,0,211
+1772962470568,347,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-4,,true,,172,191,10,33,http://vi.wikipedia.org/,347,0,211
+1772962470915,369,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-4,text,true,,1638,191,10,33,https://vi.wikipedia.org/,369,0,237
+1772962471284,629,GET Home Page-2,200,OK,Thread Group 1 1-4,text,true,,160510,212,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,121,0,0
+1772962470669,1272,GET Home Page,200,OK,Thread Group 1 1-5,text,true,,162595,594,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,247,0,116
+1772962470669,247,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-5,,true,,172,191,10,33,http://vi.wikipedia.org/,247,0,116
+1772962470916,369,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-5,text,true,,1685,191,10,33,https://vi.wikipedia.org/,369,0,239
+1772962471285,656,GET Home Page-2,200,OK,Thread Group 1 1-5,text,true,,160738,212,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,121,0,0
+1772962471404,573,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-1,text,true,,171182,464,3,33,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,255,0,132
+1772962471404,255,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-1,,true,,213,232,3,33,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,255,0,132
+1772962471659,318,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-1,text,true,,170969,232,3,33,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,130,0,0
+1772962470769,1248,GET Home Page,200,OK,Thread Group 1 1-6,text,true,,162548,594,10,32,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,261,0,146
+1772962470769,261,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-6,,true,,172,191,10,32,http://vi.wikipedia.org/,261,0,146
+1772962471030,372,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-6,text,true,,1638,191,10,32,https://vi.wikipedia.org/,372,0,256
+1772962471402,615,GET Home Page-2,200,OK,Thread Group 1 1-6,text,true,,160738,212,10,32,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,149,0,0
+1772962470870,1191,GET Home Page,200,OK,Thread Group 1 1-7,text,true,,162320,594,10,32,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,283,0,158
+1772962470870,283,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-7,,true,,172,191,10,32,http://vi.wikipedia.org/,283,0,158
+1772962471153,381,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-7,text,true,,1638,191,10,32,https://vi.wikipedia.org/,381,0,252
+1772962471534,527,GET Home Page-2,200,OK,Thread Group 1 1-7,text,true,,160510,212,10,32,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,141,0,0
+1772962470870,1196,GET Home Page,200,OK,Thread Group 2 2-2,text,true,,162320,594,2,32,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,283,0,158
+1772962470870,283,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-2,,true,,172,191,2,32,http://vi.wikipedia.org/,283,0,158
+1772962471153,382,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-2,text,true,,1638,191,2,32,https://vi.wikipedia.org/,382,0,252
+1772962471535,531,GET Home Page-2,200,OK,Thread Group 2 2-2,text,true,,160510,212,2,32,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,140,0,0
+1772962471405,665,GET Home Page,200,OK,Thread Group 1 1-1,text,true,,162958,594,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,259,0,132
+1772962471405,259,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-1,,true,,172,191,10,33,http://vi.wikipedia.org/,259,0,132
+1772962471664,123,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-1,text,true,,1638,191,10,33,https://vi.wikipedia.org/,123,0,0
+1772962471787,283,GET Home Page-2,200,OK,Thread Group 1 1-1,text,true,,161148,212,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,158,0,0
+1772962470969,1240,GET Home Page,200,OK,Thread Group 1 1-8,text,true,,162320,594,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,315,0,182
+1772962470969,315,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-8,,true,,172,191,10,33,http://vi.wikipedia.org/,315,0,182
+1772962471285,377,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-8,text,true,,1638,191,10,33,https://vi.wikipedia.org/,377,0,252
+1772962471662,547,GET Home Page-2,200,OK,Thread Group 1 1-8,text,true,,160510,212,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,149,0,0
+1772962471547,715,GET Home Page,200,OK,Thread Group 1 1-2,text,true,,162320,594,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,373,0,227
+1772962471547,373,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-2,,true,,172,191,10,33,http://vi.wikipedia.org/,373,0,227
+1772962471920,74,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-2,text,true,,1638,191,10,33,https://vi.wikipedia.org/,74,0,0
+1772962471994,268,GET Home Page-2,200,OK,Thread Group 1 1-2,text,true,,160510,212,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,99,0,0
+1772962471069,1222,GET Home Page,200,OK,Thread Group 1 1-9,text,true,,162320,594,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,333,0,215
+1772962471069,333,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-9,,true,,172,191,10,33,http://vi.wikipedia.org/,333,0,215
+1772962471402,378,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-9,text,true,,1638,191,10,33,https://vi.wikipedia.org/,378,0,256
+1772962471780,511,GET Home Page-2,200,OK,Thread Group 1 1-9,text,true,,160510,212,10,33,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,184,0,0
+1772962471178,1131,/wiki/Wikipedia,200,OK,Thread Group 3 3-2,text,true,,845441,410,20,33,https://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471178,224,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-2,,true,,186,205,20,33,http://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471402,907,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-2,text,true,,845255,205,20,33,https://vi.wikipedia.org/wiki/Wikipedia,135,0,0
+1772962471178,1140,/wiki/Wikipedia,200,OK,Thread Group 3 3-11,text,true,,845441,410,19,32,https://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471178,224,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-11,,true,,186,205,19,32,http://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471402,916,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-11,text,true,,845255,205,19,32,https://vi.wikipedia.org/wiki/Wikipedia,137,0,0
+1772962471178,1142,/wiki/Wikipedia,200,OK,Thread Group 3 3-7,text,true,,845441,410,18,31,https://vi.wikipedia.org/wiki/Wikipedia,226,0,108
+1772962471178,226,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-7,,true,,186,205,18,31,http://vi.wikipedia.org/wiki/Wikipedia,226,0,108
+1772962471404,916,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-7,text,true,,845255,205,18,31,https://vi.wikipedia.org/wiki/Wikipedia,136,0,0
+1772962471178,1144,/wiki/Wikipedia,200,OK,Thread Group 3 3-5,text,true,,845441,410,17,30,https://vi.wikipedia.org/wiki/Wikipedia,227,0,108
+1772962471179,1143,/wiki/Wikipedia,200,OK,Thread Group 3 3-4,text,true,,845441,410,17,30,https://vi.wikipedia.org/wiki/Wikipedia,225,0,106
+1772962471178,227,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-5,,true,,186,205,17,30,http://vi.wikipedia.org/wiki/Wikipedia,227,0,108
+1772962471179,225,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-4,,true,,186,205,17,30,http://vi.wikipedia.org/wiki/Wikipedia,225,0,106
+1772962471405,917,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-5,text,true,,845255,205,17,30,https://vi.wikipedia.org/wiki/Wikipedia,134,0,0
+1772962471404,918,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-4,text,true,,845255,205,17,30,https://vi.wikipedia.org/wiki/Wikipedia,133,0,0
+1772962471178,1144,/wiki/Wikipedia,200,OK,Thread Group 3 3-3,text,true,,845441,410,15,28,https://vi.wikipedia.org/wiki/Wikipedia,225,0,107
+1772962471178,225,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-3,,true,,186,205,15,28,http://vi.wikipedia.org/wiki/Wikipedia,225,0,107
+1772962471403,919,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-3,text,true,,845255,205,15,28,https://vi.wikipedia.org/wiki/Wikipedia,137,0,0
+1772962471178,1145,/wiki/Wikipedia,200,OK,Thread Group 3 3-10,text,true,,845441,410,14,27,https://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471178,224,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-10,,true,,186,205,14,27,http://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471402,921,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-10,text,true,,845255,205,14,27,https://vi.wikipedia.org/wiki/Wikipedia,138,0,0
+1772962471178,1146,/wiki/Wikipedia,200,OK,Thread Group 3 3-19,text,true,,845441,410,13,26,https://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471178,224,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-19,,true,,186,205,13,26,http://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471402,922,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-19,text,true,,845255,205,13,26,https://vi.wikipedia.org/wiki/Wikipedia,137,0,0
+1772962471169,1157,GET Home Page,200,OK,Thread Group 1 1-10,text,true,,162320,594,10,25,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,236,0,117
+1772962471169,236,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-10,,true,,172,191,10,25,http://vi.wikipedia.org/,236,0,117
+1772962471405,380,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-10,text,true,,1638,191,10,25,https://vi.wikipedia.org/,380,0,255
+1772962471785,541,GET Home Page-2,200,OK,Thread Group 1 1-10,text,true,,160510,212,10,25,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,186,0,0
+1772962471178,1151,/wiki/Wikipedia,200,OK,Thread Group 3 3-17,text,true,,845441,410,12,25,https://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471178,224,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-17,,true,,186,205,12,25,http://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471402,927,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-17,text,true,,845255,205,12,25,https://vi.wikipedia.org/wiki/Wikipedia,139,0,0
+1772962471178,1151,/wiki/Wikipedia,200,OK,Thread Group 3 3-6,text,true,,845441,410,12,25,https://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471178,224,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-6,,true,,186,205,12,25,http://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471402,927,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-6,text,true,,845255,205,12,25,https://vi.wikipedia.org/wiki/Wikipedia,134,0,0
+1772962471178,1153,/wiki/Wikipedia,200,OK,Thread Group 3 3-18,text,true,,845441,410,10,23,https://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471178,224,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-18,,true,,186,205,10,23,http://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471402,929,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-18,text,true,,845255,205,10,23,https://vi.wikipedia.org/wiki/Wikipedia,137,0,0
+1772962471178,1154,/wiki/Wikipedia,200,OK,Thread Group 3 3-13,text,true,,845441,410,9,22,https://vi.wikipedia.org/wiki/Wikipedia,226,0,108
+1772962471177,1155,/wiki/Wikipedia,200,OK,Thread Group 3 3-20,text,true,,845441,410,9,22,https://vi.wikipedia.org/wiki/Wikipedia,226,0,109
+1772962471178,226,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-13,,true,,186,205,9,22,http://vi.wikipedia.org/wiki/Wikipedia,226,0,108
+1772962471404,928,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-13,text,true,,845255,205,9,22,https://vi.wikipedia.org/wiki/Wikipedia,135,0,0
+1772962471177,226,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-20,,true,,186,205,9,22,http://vi.wikipedia.org/wiki/Wikipedia,226,0,109
+1772962471403,929,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-20,text,true,,845255,205,9,22,https://vi.wikipedia.org/wiki/Wikipedia,134,0,0
+1772962471776,556,GET Home Page,200,OK,Thread Group 1 1-3,text,true,,162320,594,10,20,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,209,0,145
+1772962471776,209,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-3,,true,,172,191,10,20,http://vi.wikipedia.org/,209,0,145
+1772962471985,76,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-3,text,true,,1638,191,10,20,https://vi.wikipedia.org/,76,0,0
+1772962472061,271,GET Home Page-2,200,OK,Thread Group 1 1-3,text,true,,160510,212,10,20,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,102,0,0
+1772962471178,1155,/wiki/Wikipedia,200,OK,Thread Group 3 3-8,text,true,,845441,410,7,20,https://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471178,224,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-8,,true,,186,205,7,20,http://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471402,931,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-8,text,true,,845255,205,7,20,https://vi.wikipedia.org/wiki/Wikipedia,137,0,0
+1772962471178,1156,/wiki/Wikipedia,200,OK,Thread Group 3 3-15,text,true,,845441,410,6,19,https://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471178,224,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-15,,true,,186,205,6,19,http://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471402,932,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-15,text,true,,845255,205,6,19,https://vi.wikipedia.org/wiki/Wikipedia,135,0,0
+1772962471178,1165,/wiki/Wikipedia,200,OK,Thread Group 3 3-12,text,true,,845441,410,5,18,https://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471178,224,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-12,,true,,186,205,5,18,http://vi.wikipedia.org/wiki/Wikipedia,224,0,107
+1772962471402,941,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-12,text,true,,845255,205,5,18,https://vi.wikipedia.org/wiki/Wikipedia,136,0,0
+1772962471176,1214,/wiki/Wikipedia,200,OK,Thread Group 3 3-14,text,true,,846056,410,4,17,https://vi.wikipedia.org/wiki/Wikipedia,226,0,109
+1772962471176,226,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-14,,true,,186,205,4,17,http://vi.wikipedia.org/wiki/Wikipedia,226,0,109
+1772962471402,988,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-14,text,true,,845870,205,4,17,https://vi.wikipedia.org/wiki/Wikipedia,134,0,0
+1772962471914,507,GET Home Page,200,OK,Thread Group 1 1-4,text,true,,162320,594,10,16,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,147,0,66
+1772962471914,147,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-4,,true,,172,191,10,16,http://vi.wikipedia.org/,147,0,66
+1772962472061,60,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-4,text,true,,1638,191,10,16,https://vi.wikipedia.org/,60,0,0
+1772962472121,300,GET Home Page-2,200,OK,Thread Group 1 1-4,text,true,,160510,212,10,16,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,131,0,0
+1772962471941,515,GET Home Page,200,OK,Thread Group 1 1-5,text,true,,162379,594,10,16,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,152,0,81
+1772962471941,152,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-5,,true,,172,191,10,16,http://vi.wikipedia.org/,152,0,81
+1772962472093,107,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-5,text,true,,1697,191,10,16,https://vi.wikipedia.org/,107,0,0
+1772962472200,256,GET Home Page-2,200,OK,Thread Group 1 1-5,text,true,,160510,212,10,16,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,129,0,0
+1772962471176,1288,/wiki/Wikipedia,200,OK,Thread Group 3 3-9,text,true,,846122,410,3,16,https://vi.wikipedia.org/wiki/Wikipedia,228,0,110
+1772962471176,228,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-9,,true,,186,205,3,16,http://vi.wikipedia.org/wiki/Wikipedia,228,0,110
+1772962471404,1060,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-9,text,true,,845936,205,3,16,https://vi.wikipedia.org/wiki/Wikipedia,537,0,0
+1772962472061,440,GET Home Page,200,OK,Thread Group 1 1-7,text,true,,162320,594,10,15,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,178,0,69
+1772962472061,178,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-7,,true,,172,191,10,15,http://vi.wikipedia.org/,178,0,69
+1772962472239,113,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-7,text,true,,1638,191,10,15,https://vi.wikipedia.org/,113,0,0
+1772962472352,149,GET Home Page-2,200,OK,Thread Group 1 1-7,text,true,,160510,212,10,15,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,64,0,0
+1772962472066,438,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-2,text,true,,171677,464,3,15,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,207,0,82
+1772962472066,207,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-2,,true,,213,232,3,15,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,207,0,82
+1772962472273,231,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-2,text,true,,171464,232,3,15,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,140,0,0
+1772962471651,870,/wiki/Wikipedia,200,OK,Thread Group 3 3-1,text,true,,845441,410,2,14,https://vi.wikipedia.org/wiki/Wikipedia,289,0,134
+1772962471651,289,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-1,,true,,186,205,2,14,http://vi.wikipedia.org/wiki/Wikipedia,289,0,134
+1772962471940,581,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-1,text,true,,845255,205,2,14,https://vi.wikipedia.org/wiki/Wikipedia,102,0,0
+1772962472017,518,GET Home Page,200,OK,Thread Group 1 1-6,text,true,,162367,594,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,154,0,64
+1772962472017,154,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-6,,true,,172,191,10,13,http://vi.wikipedia.org/,154,0,64
+1772962472171,113,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-6,text,true,,1685,191,10,13,https://vi.wikipedia.org/,113,0,0
+1772962472284,251,GET Home Page-2,200,OK,Thread Group 1 1-6,text,true,,160510,212,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,135,0,0
+1772962472070,484,GET Home Page,200,OK,Thread Group 1 1-1,text,true,,162379,594,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,207,0,93
+1772962472070,207,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-1,,true,,172,191,10,13,http://vi.wikipedia.org/,207,0,93
+1772962472277,127,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-1,text,true,,1697,191,10,13,https://vi.wikipedia.org/,127,0,0
+1772962472404,150,GET Home Page-2,200,OK,Thread Group 1 1-1,text,true,,160510,212,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,67,0,0
+1772962471471,1134,GET Home Page,200,OK,Thread Group 2 2-3,text,true,,162370,594,2,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,313,0,186
+1772962471471,313,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-3,,true,,172,191,2,13,http://vi.wikipedia.org/,313,0,186
+1772962471784,332,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-3,text,true,,1688,191,2,13,https://vi.wikipedia.org/,332,0,244
+1772962472116,489,GET Home Page-2,200,OK,Thread Group 2 2-3,text,true,,160510,212,2,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,185,0,0
+1772962472263,369,GET Home Page,200,OK,Thread Group 1 1-2,text,true,,162320,594,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,182,0,125
+1772962472263,182,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-2,,true,,172,191,10,13,http://vi.wikipedia.org/,182,0,125
+1772962472445,70,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-2,text,true,,1638,191,10,13,https://vi.wikipedia.org/,70,0,0
+1772962472515,117,GET Home Page-2,200,OK,Thread Group 1 1-2,text,true,,160510,212,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,67,0,0
+1772962472209,429,GET Home Page,200,OK,Thread Group 1 1-8,text,true,,162320,594,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,204,0,116
+1772962472209,204,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-8,,true,,172,191,10,13,http://vi.wikipedia.org/,204,0,116
+1772962472413,63,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-8,text,true,,1638,191,10,13,https://vi.wikipedia.org/,63,0,0
+1772962472477,161,GET Home Page-2,200,OK,Thread Group 1 1-8,text,true,,160510,212,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,72,0,0
+1772962472292,365,GET Home Page,200,OK,Thread Group 1 1-9,text,true,,162370,594,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,169,0,112
+1772962472292,169,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-9,,true,,172,191,10,13,http://vi.wikipedia.org/,169,0,112
+1772962472461,54,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-9,text,true,,1688,191,10,13,https://vi.wikipedia.org/,54,0,0
+1772962472515,142,GET Home Page-2,200,OK,Thread Group 1 1-9,text,true,,160510,212,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,62,0,0
+1772962472332,362,GET Home Page,200,OK,Thread Group 1 1-3,text,true,,162320,594,10,14,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,150,0,94
+1772962472332,150,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-3,,true,,172,191,10,14,http://vi.wikipedia.org/,150,0,94
+1772962472482,59,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-3,text,true,,1638,191,10,14,https://vi.wikipedia.org/,59,0,0
+1772962472541,153,GET Home Page-2,200,OK,Thread Group 1 1-3,text,true,,160510,212,10,14,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,67,0,0
+1772962472326,384,GET Home Page,200,OK,Thread Group 1 1-10,text,true,,162320,594,10,14,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,156,0,98
+1772962472326,156,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-10,,true,,172,191,10,14,http://vi.wikipedia.org/,156,0,98
+1772962472482,57,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-10,text,true,,1638,191,10,14,https://vi.wikipedia.org/,57,0,0
+1772962472539,171,GET Home Page-2,200,OK,Thread Group 1 1-10,text,true,,160510,212,10,14,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,67,0,0
+1772962472421,291,GET Home Page,200,OK,Thread Group 1 1-4,text,true,,162635,594,10,14,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,120,0,60
+1772962472421,120,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-4,,true,,172,191,10,14,http://vi.wikipedia.org/,120,0,60
+1772962472541,49,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-4,text,true,,1689,191,10,14,https://vi.wikipedia.org/,49,0,0
+1772962472590,122,GET Home Page-2,200,OK,Thread Group 1 1-4,text,true,,160774,212,10,14,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,60,0,0
+1772962472069,655,GET Home Page,200,OK,Thread Group 2 2-4,text,true,,162320,594,3,14,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,204,0,84
+1772962472069,204,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-4,,true,,172,191,3,14,http://vi.wikipedia.org/,204,0,84
+1772962472273,241,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-4,text,true,,1638,191,3,14,https://vi.wikipedia.org/,241,0,181
+1772962472514,210,GET Home Page-2,200,OK,Thread Group 2 2-4,text,true,,160510,212,3,14,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,65,0,0
+1772962472502,266,GET Home Page,200,OK,Thread Group 1 1-7,text,true,,162320,594,10,14,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,119,0,59
+1772962472502,119,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-7,,true,,172,191,10,14,http://vi.wikipedia.org/,119,0,59
+1772962472621,54,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-7,text,true,,1638,191,10,14,https://vi.wikipedia.org/,54,0,0
+1772962472675,93,GET Home Page-2,200,OK,Thread Group 1 1-7,text,true,,160510,212,10,14,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,60,0,0
+1772962471179,1610,/wiki/Wikipedia,200,OK,Thread Group 3 3-16,text,true,,846245,410,1,14,https://vi.wikipedia.org/wiki/Wikipedia,223,0,106
+1772962471179,223,/wiki/Wikipedia-0,301,Moved Permanently,Thread Group 3 3-16,,true,,186,205,1,14,http://vi.wikipedia.org/wiki/Wikipedia,223,0,106
+1772962471402,1387,/wiki/Wikipedia-1,200,OK,Thread Group 3 3-16,text,true,,846059,205,1,14,https://vi.wikipedia.org/wiki/Wikipedia,1086,0,0
+1772962472456,338,GET Home Page,200,OK,Thread Group 1 1-5,text,true,,162320,594,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,125,0,63
+1772962472456,125,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-5,,true,,172,191,10,13,http://vi.wikipedia.org/,125,0,63
+1772962472582,60,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-5,text,true,,1638,191,10,13,https://vi.wikipedia.org/,60,0,0
+1772962472642,152,GET Home Page-2,200,OK,Thread Group 1 1-5,text,true,,160510,212,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,68,0,0
+1772962472535,275,GET Home Page,200,OK,Thread Group 1 1-6,text,true,,162379,594,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,108,0,54
+1772962472535,108,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-6,,true,,172,191,10,13,http://vi.wikipedia.org/,108,0,54
+1772962472643,59,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-6,text,true,,1697,191,10,13,https://vi.wikipedia.org/,59,0,0
+1772962472702,108,GET Home Page-2,200,OK,Thread Group 1 1-6,text,true,,160510,212,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,68,0,0
+1772962472554,272,GET Home Page,200,OK,Thread Group 1 1-1,text,true,,162584,594,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,121,0,61
+1772962472554,121,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-1,,true,,172,191,10,13,http://vi.wikipedia.org/,121,0,61
+1772962472675,60,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-1,text,true,,1638,191,10,13,https://vi.wikipedia.org/,60,0,0
+1772962472735,91,GET Home Page-2,200,OK,Thread Group 1 1-1,text,true,,160774,212,10,13,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,63,0,0
+1772962472605,236,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-3,text,true,,171182,464,3,13,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,115,0,57
+1772962472605,115,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-3,,true,,213,232,3,13,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,115,0,57
+1772962472720,121,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-3,text,true,,170969,232,3,13,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,64,0,0
+1772962472632,279,GET Home Page,200,OK,Thread Group 1 1-2,text,true,,162320,594,10,12,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,111,0,56
+1772962472632,111,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-2,,true,,172,191,10,12,http://vi.wikipedia.org/,111,0,56
+1772962472743,63,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-2,text,true,,1638,191,10,12,https://vi.wikipedia.org/,63,0,0
+1772962472805,105,GET Home Page-2,200,OK,Thread Group 1 1-2,text,true,,160510,212,10,12,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,68,0,0
+1772962472639,275,GET Home Page,200,OK,Thread Group 1 1-8,text,true,,162367,594,10,12,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,113,0,55
+1772962472639,113,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-8,,true,,172,191,10,12,http://vi.wikipedia.org/,113,0,55
+1772962472753,65,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-8,text,true,,1685,191,10,12,https://vi.wikipedia.org/,65,0,0
+1772962472817,96,GET Home Page-2,200,OK,Thread Group 1 1-8,text,true,,160510,212,10,12,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,66,0,0
+1772962472657,259,GET Home Page,200,OK,Thread Group 1 1-9,text,true,,162320,594,10,12,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,120,0,59
+1772962472657,120,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-9,,true,,172,191,10,12,http://vi.wikipedia.org/,120,0,59
+1772962472777,52,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-9,text,true,,1638,191,10,12,https://vi.wikipedia.org/,52,0,0
+1772962472828,87,GET Home Page-2,200,OK,Thread Group 1 1-9,text,true,,160510,212,10,12,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,57,0,0
+1772962472724,209,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-4,text,true,,171182,464,2,12,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,117,0,58
+1772962472724,117,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-4,,true,,213,232,2,12,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,117,0,58
+1772962472840,93,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-4,text,true,,170969,232,2,12,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,54,0,0
+1772962472712,237,GET Home Page,200,OK,Thread Group 1 1-4,text,true,,162320,594,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,113,0,56
+1772962472712,113,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-4,,true,,172,191,10,11,http://vi.wikipedia.org/,113,0,56
+1772962472824,49,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-4,text,true,,1638,191,10,11,https://vi.wikipedia.org/,49,0,0
+1772962472873,76,GET Home Page-2,200,OK,Thread Group 1 1-4,text,true,,160510,212,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,54,0,0
+1772962472694,278,GET Home Page,200,OK,Thread Group 1 1-3,text,true,,162379,594,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,127,0,63
+1772962472694,127,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-3,,true,,172,191,10,11,http://vi.wikipedia.org/,127,0,63
+1772962472821,58,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-3,text,true,,1697,191,10,11,https://vi.wikipedia.org/,58,0,0
+1772962472879,93,GET Home Page-2,200,OK,Thread Group 1 1-3,text,true,,160510,212,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,61,0,0
+1772962472710,271,GET Home Page,200,OK,Thread Group 1 1-10,text,true,,162374,594,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,119,0,60
+1772962472710,119,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-10,,true,,172,191,10,11,http://vi.wikipedia.org/,119,0,60
+1772962472828,57,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-10,text,true,,1692,191,10,11,https://vi.wikipedia.org/,57,0,0
+1772962472885,96,GET Home Page-2,200,OK,Thread Group 1 1-10,text,true,,160510,212,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,61,0,0
+1772962472768,264,GET Home Page,200,OK,Thread Group 1 1-7,text,true,,162379,594,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,121,0,61
+1772962472768,121,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-7,,true,,172,191,10,11,http://vi.wikipedia.org/,121,0,61
+1772962472888,56,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-7,text,true,,1697,191,10,11,https://vi.wikipedia.org/,56,0,0
+1772962472944,88,GET Home Page-2,200,OK,Thread Group 1 1-7,text,true,,160510,212,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,62,0,0
+1772962472793,264,GET Home Page,200,OK,Thread Group 1 1-5,text,true,,162320,594,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,106,0,53
+1772962472793,106,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-5,,true,,172,191,10,11,http://vi.wikipedia.org/,106,0,53
+1772962472899,62,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-5,text,true,,1638,191,10,11,https://vi.wikipedia.org/,62,0,0
+1772962472961,96,GET Home Page-2,200,OK,Thread Group 1 1-5,text,true,,160510,212,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,70,0,0
+1772962472809,271,GET Home Page,200,OK,Thread Group 1 1-6,text,true,,162320,594,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,114,0,57
+1772962472809,114,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-6,,true,,172,191,10,11,http://vi.wikipedia.org/,114,0,57
+1772962472923,59,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-6,text,true,,1638,191,10,11,https://vi.wikipedia.org/,59,0,0
+1772962472982,98,GET Home Page-2,200,OK,Thread Group 1 1-6,text,true,,160510,212,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,64,0,0
+1772962472825,273,GET Home Page,200,OK,Thread Group 1 1-1,text,true,,162374,594,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,121,0,61
+1772962472825,121,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-1,,true,,172,191,10,11,http://vi.wikipedia.org/,121,0,61
+1772962472946,60,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-1,text,true,,1692,191,10,11,https://vi.wikipedia.org/,60,0,0
+1772962473006,92,GET Home Page-2,200,OK,Thread Group 1 1-1,text,true,,160510,212,10,11,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,63,0,0
+1772962472915,238,GET Home Page,200,OK,Thread Group 1 1-9,text,true,,162320,594,9,10,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,103,0,52
+1772962472915,103,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-9,,true,,172,191,9,10,http://vi.wikipedia.org/,103,0,52
+1772962473018,53,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-9,text,true,,1638,191,9,10,https://vi.wikipedia.org/,53,0,0
+1772962473071,82,GET Home Page-2,200,OK,Thread Group 1 1-9,text,true,,160510,212,9,10,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,59,0,0
+1772962472913,270,GET Home Page,200,OK,Thread Group 1 1-8,text,true,,162607,594,9,10,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,110,0,55
+1772962472913,110,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-8,,true,,172,191,9,10,http://vi.wikipedia.org/,110,0,55
+1772962473023,65,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-8,text,true,,1697,191,9,10,https://vi.wikipedia.org/,65,0,0
+1772962473088,95,GET Home Page-2,200,OK,Thread Group 1 1-8,text,true,,160738,212,9,10,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,65,0,0
+1772962472910,287,GET Home Page,200,OK,Thread Group 1 1-2,text,true,,162320,594,9,10,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,123,0,63
+1772962472910,123,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-2,,true,,172,191,9,10,http://vi.wikipedia.org/,123,0,63
+1772962473033,65,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-2,text,true,,1638,191,9,10,https://vi.wikipedia.org/,65,0,0
+1772962473098,99,GET Home Page-2,200,OK,Thread Group 1 1-2,text,true,,160510,212,9,10,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,67,0,0
+1772962472949,249,GET Home Page,200,OK,Thread Group 1 1-4,text,true,,162584,594,8,9,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,123,0,63
+1772962472949,123,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-4,,true,,172,191,8,9,http://vi.wikipedia.org/,123,0,63
+1772962473072,51,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-4,text,true,,1638,191,8,9,https://vi.wikipedia.org/,51,0,0
+1772962473123,75,GET Home Page-2,200,OK,Thread Group 1 1-4,text,true,,160774,212,8,9,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,52,0,0
+1772962472670,553,GET Home Page,200,OK,Thread Group 2 2-5,text,true,,162584,594,1,8,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,119,0,60
+1772962472670,119,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-5,,true,,172,191,1,8,http://vi.wikipedia.org/,119,0,60
+1772962472790,183,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-5,text,true,,1638,191,1,8,https://vi.wikipedia.org/,183,0,122
+1772962472973,249,GET Home Page-2,200,OK,Thread Group 2 2-5,text,true,,160774,212,1,8,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,78,0,0
+1772962472973,266,GET Home Page,200,OK,Thread Group 1 1-3,text,true,,162320,594,7,8,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,115,0,58
+1772962472973,115,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-3,,true,,172,191,7,8,http://vi.wikipedia.org/,115,0,58
+1772962473088,60,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-3,text,true,,1638,191,7,8,https://vi.wikipedia.org/,60,0,0
+1772962473148,91,GET Home Page-2,200,OK,Thread Group 1 1-3,text,true,,160510,212,7,8,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,63,0,0
+1772962472982,263,GET Home Page,200,OK,Thread Group 1 1-10,text,true,,162632,594,6,7,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,117,0,59
+1772962472982,117,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-10,,true,,172,191,6,7,http://vi.wikipedia.org/,117,0,59
+1772962473099,56,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-10,text,true,,1722,191,6,7,https://vi.wikipedia.org/,56,0,0
+1772962473155,90,GET Home Page-2,200,OK,Thread Group 1 1-10,text,true,,160738,212,6,7,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,61,0,0
+1772962473032,272,GET Home Page,200,OK,Thread Group 1 1-7,text,true,,162320,594,6,8,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,128,0,63
+1772962473032,128,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-7,,true,,172,191,6,8,http://vi.wikipedia.org/,128,0,63
+1772962473160,57,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-7,text,true,,1638,191,6,8,https://vi.wikipedia.org/,57,0,0
+1772962473217,87,GET Home Page-2,200,OK,Thread Group 1 1-7,text,true,,160510,212,6,8,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,60,0,0
+1772962473080,410,GET Home Page,200,OK,Thread Group 1 1-6,text,true,,162367,594,5,7,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,103,0,51
+1772962473080,103,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-6,,true,,172,191,5,7,http://vi.wikipedia.org/,103,0,51
+1772962473183,60,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-6,text,true,,1685,191,5,7,https://vi.wikipedia.org/,60,0,0
+1772962473243,247,GET Home Page-2,200,OK,Thread Group 1 1-6,text,true,,160510,212,5,7,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,63,0,0
+1772962473057,433,GET Home Page,200,OK,Thread Group 1 1-5,text,true,,162320,594,5,7,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,132,0,69
+1772962473057,132,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-5,,true,,172,191,5,7,http://vi.wikipedia.org/,132,0,69
+1772962473189,58,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-5,text,true,,1638,191,5,7,https://vi.wikipedia.org/,58,0,0
+1772962473247,243,GET Home Page-2,200,OK,Thread Group 1 1-5,text,true,,160510,212,5,7,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,64,0,0
+1772962473153,465,GET Home Page,200,OK,Thread Group 1 1-9,text,true,,162320,594,3,5,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,119,0,59
+1772962473153,119,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-9,,true,,172,191,3,5,http://vi.wikipedia.org/,119,0,59
+1772962473272,216,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-9,text,true,,1638,191,3,5,https://vi.wikipedia.org/,216,0,0
+1772962473488,130,GET Home Page-2,200,OK,Thread Group 1 1-9,text,true,,160510,212,3,5,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,126,0,0
+1772962473183,448,GET Home Page,200,OK,Thread Group 1 1-8,text,true,,162375,594,2,4,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,107,0,54
+1772962473183,107,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-8,,true,,172,191,2,4,http://vi.wikipedia.org/,107,0,54
+1772962473290,200,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-8,text,true,,1693,191,2,4,https://vi.wikipedia.org/,200,0,0
+1772962473490,141,GET Home Page-2,200,OK,Thread Group 1 1-8,text,true,,160510,212,2,4,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,125,0,0
+1772962473223,521,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-5,text,true,,171182,464,2,3,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,267,0,59
+1772962473223,267,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-5,,true,,213,232,2,3,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,267,0,59
+1772962473490,254,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-5,text,true,,170969,232,2,3,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,125,0,0
+1772962473245,500,GET Home Page,200,OK,Thread Group 1 1-10,text,true,,162862,594,1,2,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,245,0,52
+1772962473245,245,GET Home Page-0,301,Moved Permanently,Thread Group 1 1-10,,true,,172,191,1,2,http://vi.wikipedia.org/,245,0,52
+1772962473490,124,GET Home Page-1,301,Moved Permanently,Thread Group 1 1-10,text,true,,1722,191,1,2,https://vi.wikipedia.org/,124,0,0
+1772962473614,131,GET Home Page-2,200,OK,Thread Group 1 1-10,text,true,,160968,212,1,2,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,128,0,0
+1772962473268,1236,GET Home Page,200,OK,Thread Group 2 2-6,text,true,,162320,594,3,3,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,344,0,219
+1772962473268,344,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-6,,true,,172,191,3,3,http://vi.wikipedia.org/,344,0,219
+1772962473612,374,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-6,text,true,,1638,191,3,3,https://vi.wikipedia.org/,374,0,252
+1772962473986,518,GET Home Page-2,200,OK,Thread Group 2 2-6,text,true,,160510,212,3,3,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,129,0,0
+1772962473869,1271,GET Home Page,200,OK,Thread Group 2 2-7,text,true,,162548,594,4,4,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,364,0,243
+1772962473869,364,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-7,,true,,172,191,4,4,http://vi.wikipedia.org/,364,0,243
+1772962474233,374,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-7,text,true,,1638,191,4,4,https://vi.wikipedia.org/,374,0,268
+1772962474607,533,GET Home Page-2,200,OK,Thread Group 2 2-7,text,true,,160738,212,4,4,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,146,0,0
+1772962474504,636,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-6,text,true,,171182,464,4,4,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,386,0,248
+1772962474504,386,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-6,,true,,213,232,4,4,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,386,0,248
+1772962474890,250,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-6,text,true,,170969,232,4,4,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,144,0,0
+1772962474468,1237,GET Home Page,200,OK,Thread Group 2 2-8,text,true,,162320,594,4,4,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,284,0,139
+1772962474468,284,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-8,,true,,172,191,4,4,http://vi.wikipedia.org/,284,0,139
+1772962474753,387,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-8,text,true,,1638,191,4,4,https://vi.wikipedia.org/,387,0,282
+1772962475141,564,GET Home Page-2,200,OK,Thread Group 2 2-8,text,true,,160510,212,4,4,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,146,0,0
+1772962475141,706,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-7,text,true,,171182,464,4,4,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,424,0,284
+1772962475141,424,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-7,,true,,213,232,4,4,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,424,0,284
+1772962475565,282,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-7,text,true,,170969,232,4,4,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,140,0,0
+1772962475706,559,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-8,text,true,,171182,464,3,3,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,288,0,138
+1772962475706,288,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-8,,true,,213,232,3,3,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,288,0,138
+1772962475994,271,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-8,text,true,,170969,232,3,3,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,132,0,0
+1772962475069,1340,GET Home Page,200,OK,Thread Group 2 2-9,text,true,,162320,594,3,3,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,356,0,214
+1772962475069,356,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-9,,true,,172,191,3,3,http://vi.wikipedia.org/,356,0,214
+1772962475425,420,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-9,text,true,,1638,191,3,3,https://vi.wikipedia.org/,420,0,281
+1772962475845,564,GET Home Page-2,200,OK,Thread Group 2 2-9,text,true,,160510,212,3,3,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,154,0,0
+1772962475670,1254,GET Home Page,200,OK,Thread Group 2 2-10,text,true,,162320,594,4,4,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,324,0,174
+1772962475670,324,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-10,,true,,172,191,4,4,http://vi.wikipedia.org/,324,0,174
+1772962475994,409,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-10,text,true,,1638,191,4,4,https://vi.wikipedia.org/,409,0,271
+1772962476404,520,GET Home Page-2,200,OK,Thread Group 2 2-10,text,true,,160510,212,4,4,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,142,0,0
+1772962476409,515,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-9,text,true,,171182,464,4,4,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,266,0,137
+1772962476409,266,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-9,,true,,213,232,4,4,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,266,0,137
+1772962476675,249,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-9,text,true,,170969,232,4,4,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,128,0,0
+1772962476269,1164,GET Home Page,200,OK,Thread Group 2 2-11,text,true,,162320,594,3,3,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,277,0,135
+1772962476269,277,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-11,,true,,172,191,3,3,http://vi.wikipedia.org/,277,0,135
+1772962476546,377,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-11,text,true,,1638,191,3,3,https://vi.wikipedia.org/,377,0,256
+1772962476923,510,GET Home Page-2,200,OK,Thread Group 2 2-11,text,true,,160510,212,3,3,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,129,0,0
+1772962476924,625,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-10,text,true,,171819,464,4,4,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,251,0,127
+1772962476924,251,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-10,,true,,213,232,4,4,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,251,0,127
+1772962477175,374,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-10,text,true,,171606,232,4,4,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,127,0,0
+1772962477434,490,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-11,text,true,,171798,464,3,3,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,242,0,115
+1772962477434,242,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-11,,true,,213,232,3,3,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,242,0,115
+1772962477676,248,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-11,text,true,,171585,232,3,3,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,122,0,0
+1772962476868,1195,GET Home Page,200,OK,Thread Group 2 2-12,text,true,,162320,594,2,2,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,308,0,183
+1772962476868,308,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-12,,true,,172,191,2,2,http://vi.wikipedia.org/,308,0,183
+1772962477177,372,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-12,text,true,,1638,191,2,2,https://vi.wikipedia.org/,372,0,257
+1772962477549,514,GET Home Page-2,200,OK,Thread Group 2 2-12,text,true,,160510,212,2,2,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,127,0,0
+1772962478065,341,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-12,text,true,,171677,464,3,3,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,173,0,109
+1772962478065,173,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-12,,true,,213,232,3,3,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,173,0,109
+1772962478238,168,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-12,text,true,,171464,232,3,3,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,73,0,0
+1772962477468,999,GET Home Page,200,OK,Thread Group 2 2-13,text,true,,162320,594,2,2,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,330,0,208
+1772962477468,330,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-13,,true,,172,191,2,2,http://vi.wikipedia.org/,330,0,208
+1772962477799,375,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-13,text,true,,1638,191,2,2,https://vi.wikipedia.org/,375,0,269
+1772962478174,293,GET Home Page-2,200,OK,Thread Group 2 2-13,text,true,,160510,212,2,2,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,105,0,0
+1772962478467,227,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-13,text,true,,171182,464,3,3,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,114,0,57
+1772962478467,114,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-13,,true,,213,232,3,3,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,114,0,57
+1772962478581,113,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-13,text,true,,170969,232,3,3,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,65,0,0
+1772962478081,652,GET Home Page,200,OK,Thread Group 2 2-14,text,true,,162320,594,2,2,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,201,0,146
+1772962478081,201,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-14,,true,,172,191,2,2,http://vi.wikipedia.org/,201,0,146
+1772962478283,191,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-14,text,true,,1638,191,2,2,https://vi.wikipedia.org/,191,0,129
+1772962478474,259,GET Home Page-2,200,OK,Thread Group 2 2-14,text,true,,160510,212,2,2,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,81,0,0
+1772962478733,263,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-14,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,134,0,54
+1772962478733,134,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-14,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,134,0,54
+1772962478867,129,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-14,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,76,0,0
+1772962478672,572,GET Home Page,200,OK,Thread Group 2 2-15,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,115,0,58
+1772962478672,115,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-15,,true,,172,191,1,1,http://vi.wikipedia.org/,115,0,58
+1772962478788,209,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-15,text,true,,1638,191,1,1,https://vi.wikipedia.org/,209,0,151
+1772962478997,247,GET Home Page-2,200,OK,Thread Group 2 2-15,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,78,0,0
+1772962479245,239,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-15,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,128,0,64
+1772962479245,128,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-15,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,128,0,64
+1772962479373,111,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-15,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,59,0,0
+1772962479272,596,GET Home Page,200,OK,Thread Group 2 2-16,text,true,,162548,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,125,0,63
+1772962479272,125,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-16,,true,,172,191,1,1,http://vi.wikipedia.org/,125,0,63
+1772962479397,197,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-16,text,true,,1638,191,1,1,https://vi.wikipedia.org/,197,0,133
+1772962479594,274,GET Home Page-2,200,OK,Thread Group 2 2-16,text,true,,160738,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,93,0,0
+1772962479869,237,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-16,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,126,0,62
+1772962479869,126,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-16,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,126,0,62
+1772962479995,111,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-16,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,68,0,0
+1772962479873,547,GET Home Page,200,OK,Thread Group 2 2-17,text,true,,162778,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,119,0,59
+1772962479873,119,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-17,,true,,172,191,1,1,http://vi.wikipedia.org/,119,0,59
+1772962479993,174,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-17,text,true,,1638,191,1,1,https://vi.wikipedia.org/,174,0,115
+1772962480167,253,GET Home Page-2,200,OK,Thread Group 2 2-17,text,true,,160968,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,71,0,0
+1772962480424,242,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-17,text,true,,171678,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,114,0,56
+1772962480424,114,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-17,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,114,0,56
+1772962480538,128,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-17,text,true,,171465,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,64,0,0
+1772962480471,537,GET Home Page,200,OK,Thread Group 2 2-18,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,107,0,53
+1772962480471,107,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-18,,true,,172,191,1,1,http://vi.wikipedia.org/,107,0,53
+1772962480579,181,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-18,text,true,,1638,191,1,1,https://vi.wikipedia.org/,181,0,123
+1772962480760,248,GET Home Page-2,200,OK,Thread Group 2 2-18,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,75,0,0
+1772962481009,228,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-18,text,true,,171661,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,121,0,60
+1772962481009,121,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-18,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,121,0,60
+1772962481130,107,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-18,text,true,,171448,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,64,0,0
+1772962481069,530,GET Home Page,200,OK,Thread Group 2 2-19,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,111,0,57
+1772962481069,111,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-19,,true,,172,191,1,1,http://vi.wikipedia.org/,111,0,57
+1772962481180,170,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-19,text,true,,1638,191,1,1,https://vi.wikipedia.org/,170,0,114
+1772962481350,249,GET Home Page-2,200,OK,Thread Group 2 2-19,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,81,0,0
+1772962481600,252,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-19,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,126,0,62
+1772962481600,126,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-19,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,126,0,62
+1772962481727,125,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-19,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,58,0,0
+1772962481670,479,GET Home Page,200,OK,Thread Group 2 2-20,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,115,0,58
+1772962481670,115,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-20,,true,,172,191,1,1,http://vi.wikipedia.org/,115,0,58
+1772962481786,152,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-20,text,true,,1638,191,1,1,https://vi.wikipedia.org/,152,0,102
+1772962481938,211,GET Home Page-2,200,OK,Thread Group 2 2-20,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,64,0,0
+1772962482149,249,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-20,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,120,0,59
+1772962482149,120,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-20,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,120,0,59
+1772962482269,129,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-20,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,66,0,0
+1772962482269,549,GET Home Page,200,OK,Thread Group 2 2-21,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,116,0,64
+1772962482269,116,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-21,,true,,172,191,1,1,http://vi.wikipedia.org/,116,0,64
+1772962482385,182,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-21,text,true,,1638,191,1,1,https://vi.wikipedia.org/,182,0,122
+1772962482567,251,GET Home Page-2,200,OK,Thread Group 2 2-21,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,76,0,0
+1772962482819,229,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-21,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,120,0,60
+1772962482819,120,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-21,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,120,0,60
+1772962482939,109,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-21,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,62,0,0
+1772962482869,539,GET Home Page,200,OK,Thread Group 2 2-22,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,112,0,56
+1772962482869,112,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-22,,true,,172,191,1,1,http://vi.wikipedia.org/,112,0,56
+1772962482981,172,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-22,text,true,,1638,191,1,1,https://vi.wikipedia.org/,172,0,116
+1772962483153,255,GET Home Page-2,200,OK,Thread Group 2 2-22,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,74,0,0
+1772962483408,239,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-22,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,103,0,50
+1772962483408,103,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-22,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,103,0,50
+1772962483511,136,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-22,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,66,0,0
+1772962483469,519,GET Home Page,200,OK,Thread Group 2 2-23,text,true,,162379,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,120,0,60
+1772962483469,120,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-23,,true,,172,191,1,1,http://vi.wikipedia.org/,120,0,60
+1772962483589,169,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-23,text,true,,1697,191,1,1,https://vi.wikipedia.org/,169,0,114
+1772962483758,230,GET Home Page-2,200,OK,Thread Group 2 2-23,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,69,0,0
+1772962483988,228,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-23,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,119,0,60
+1772962483988,119,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-23,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,119,0,60
+1772962484107,109,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-23,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,73,0,0
+1772962484070,522,GET Home Page,200,OK,Thread Group 2 2-24,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,107,0,54
+1772962484070,107,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-24,,true,,172,191,1,1,http://vi.wikipedia.org/,107,0,54
+1772962484177,175,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-24,text,true,,1638,191,1,1,https://vi.wikipedia.org/,175,0,119
+1772962484352,240,GET Home Page-2,200,OK,Thread Group 2 2-24,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,73,0,0
+1772962484593,238,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-24,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,106,0,53
+1772962484593,106,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-24,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,106,0,53
+1772962484699,132,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-24,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,61,0,0
+1772962484669,519,GET Home Page,200,OK,Thread Group 2 2-25,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,115,0,56
+1772962484669,115,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-25,,true,,172,191,1,1,http://vi.wikipedia.org/,115,0,56
+1772962484785,173,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-25,text,true,,1638,191,1,1,https://vi.wikipedia.org/,173,0,121
+1772962484958,230,GET Home Page-2,200,OK,Thread Group 2 2-25,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,69,0,0
+1772962485188,220,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-25,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,118,0,54
+1772962485188,118,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-25,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,118,0,54
+1772962485306,102,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-25,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,56,0,0
+1772962485269,515,GET Home Page,200,OK,Thread Group 2 2-26,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,119,0,59
+1772962485269,119,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-26,,true,,172,191,1,1,http://vi.wikipedia.org/,119,0,59
+1772962485388,167,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-26,text,true,,1638,191,1,1,https://vi.wikipedia.org/,167,0,110
+1772962485555,229,GET Home Page-2,200,OK,Thread Group 2 2-26,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,71,0,0
+1772962485785,213,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-26,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,115,0,56
+1772962485785,115,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-26,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,115,0,56
+1772962485900,98,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-26,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,63,0,0
+1772962485870,563,GET Home Page,200,OK,Thread Group 2 2-27,text,true,,162370,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,126,0,63
+1772962485870,126,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-27,,true,,172,191,1,1,http://vi.wikipedia.org/,126,0,63
+1772962485996,183,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-27,text,true,,1688,191,1,1,https://vi.wikipedia.org/,183,0,122
+1772962486180,253,GET Home Page-2,200,OK,Thread Group 2 2-27,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,76,0,0
+1772962486434,253,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-27,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,113,0,57
+1772962486434,113,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-27,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,113,0,57
+1772962486547,140,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-27,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,67,0,0
+1772962486470,526,GET Home Page,200,OK,Thread Group 2 2-28,text,true,,162379,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,113,0,57
+1772962486470,113,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-28,,true,,172,191,1,1,http://vi.wikipedia.org/,113,0,57
+1772962486584,171,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-28,text,true,,1697,191,1,1,https://vi.wikipedia.org/,171,0,116
+1772962486755,241,GET Home Page-2,200,OK,Thread Group 2 2-28,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,78,0,0
+1772962486996,251,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-28,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,106,0,55
+1772962486996,106,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-28,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,106,0,55
+1772962487102,145,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-28,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,65,0,0
+1772962487070,478,GET Home Page,200,OK,Thread Group 2 2-29,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,100,0,50
+1772962487070,100,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-29,,true,,172,191,1,1,http://vi.wikipedia.org/,100,0,50
+1772962487170,162,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-29,text,true,,1638,191,1,1,https://vi.wikipedia.org/,162,0,108
+1772962487332,216,GET Home Page-2,200,OK,Thread Group 2 2-29,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,66,0,0
+1772962487548,225,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-29,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,121,0,60
+1772962487548,121,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-29,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,121,0,60
+1772962487669,104,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-29,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,55,0,0
+1772962487668,547,GET Home Page,200,OK,Thread Group 2 2-30,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,123,0,61
+1772962487668,123,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-30,,true,,172,191,1,1,http://vi.wikipedia.org/,123,0,61
+1772962487791,179,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-30,text,true,,1638,191,1,1,https://vi.wikipedia.org/,179,0,118
+1772962487970,245,GET Home Page-2,200,OK,Thread Group 2 2-30,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,77,0,0
+1772962488216,246,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-30,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,112,0,59
+1772962488216,112,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-30,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,112,0,59
+1772962488328,134,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-30,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,63,0,0
+1772962488270,522,GET Home Page,200,OK,Thread Group 2 2-31,text,true,,162379,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,109,0,55
+1772962488270,109,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-31,,true,,172,191,1,1,http://vi.wikipedia.org/,109,0,55
+1772962488380,169,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-31,text,true,,1697,191,1,1,https://vi.wikipedia.org/,169,0,114
+1772962488549,243,GET Home Page-2,200,OK,Thread Group 2 2-31,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,73,0,0
+1772962488792,247,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-31,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,114,0,57
+1772962488792,114,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-31,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,114,0,57
+1772962488906,133,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-31,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,62,0,0
+1772962488871,546,GET Home Page,200,OK,Thread Group 2 2-32,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,125,0,62
+1772962488871,125,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-32,,true,,172,191,1,1,http://vi.wikipedia.org/,125,0,62
+1772962488996,181,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-32,text,true,,1638,191,1,1,https://vi.wikipedia.org/,181,0,123
+1772962489177,240,GET Home Page-2,200,OK,Thread Group 2 2-32,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,72,0,0
+1772962489418,261,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-32,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,119,0,59
+1772962489418,119,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-32,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,119,0,59
+1772962489537,142,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-32,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,64,0,0
+1772962489470,556,GET Home Page,200,OK,Thread Group 2 2-33,text,true,,162379,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,120,0,55
+1772962489470,120,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-33,,true,,172,191,1,1,http://vi.wikipedia.org/,120,0,55
+1772962489590,182,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-33,text,true,,1697,191,1,1,https://vi.wikipedia.org/,182,0,123
+1772962489773,253,GET Home Page-2,200,OK,Thread Group 2 2-33,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,76,0,0
+1772962490026,241,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-33,text,true,,171819,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,112,0,58
+1772962490026,112,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-33,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,112,0,58
+1772962490138,129,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-33,text,true,,171606,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,62,0,0
+1772962490071,525,GET Home Page,200,OK,Thread Group 2 2-34,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,114,0,57
+1772962490071,114,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-34,,true,,172,191,1,1,http://vi.wikipedia.org/,114,0,57
+1772962490185,172,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-34,text,true,,1638,191,1,1,https://vi.wikipedia.org/,172,0,116
+1772962490357,239,GET Home Page-2,200,OK,Thread Group 2 2-34,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,77,0,0
+1772962490597,241,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-34,text,true,,171818,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,114,0,56
+1772962490597,114,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-34,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,114,0,56
+1772962490711,127,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-34,text,true,,171605,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,61,0,0
+1772962490670,520,GET Home Page,200,OK,Thread Group 2 2-35,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,111,0,57
+1772962490670,111,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-35,,true,,172,191,1,1,http://vi.wikipedia.org/,111,0,57
+1772962490781,165,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-35,text,true,,1638,191,1,1,https://vi.wikipedia.org/,165,0,112
+1772962490946,244,GET Home Page-2,200,OK,Thread Group 2 2-35,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,68,0,0
+1772962491191,261,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-35,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,130,0,69
+1772962491191,130,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-35,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,130,0,69
+1772962491321,131,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-35,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,56,0,0
+1772962491270,565,GET Home Page,200,OK,Thread Group 2 2-36,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,121,0,59
+1772962491270,121,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-36,,true,,172,191,1,1,http://vi.wikipedia.org/,121,0,59
+1772962491392,184,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-36,text,true,,1638,191,1,1,https://vi.wikipedia.org/,184,0,125
+1772962491577,258,GET Home Page-2,200,OK,Thread Group 2 2-36,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,78,0,0
+1772962491835,251,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-36,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,116,0,58
+1772962491835,116,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-36,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,116,0,58
+1772962491951,135,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-36,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,67,0,0
+1772962491869,551,GET Home Page,200,OK,Thread Group 2 2-37,text,true,,162548,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,122,0,60
+1772962491869,122,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-37,,true,,172,191,1,1,http://vi.wikipedia.org/,122,0,60
+1772962491991,176,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-37,text,true,,1638,191,1,1,https://vi.wikipedia.org/,176,0,111
+1772962492167,253,GET Home Page-2,200,OK,Thread Group 2 2-37,text,true,,160738,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,78,0,0
+1772962492420,230,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-37,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,105,0,52
+1772962492420,105,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-37,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,105,0,52
+1772962492526,124,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-37,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,59,0,0
+1772962492470,574,GET Home Page,200,OK,Thread Group 2 2-38,text,true,,162379,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,118,0,58
+1772962492470,118,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-38,,true,,172,191,1,1,http://vi.wikipedia.org/,118,0,58
+1772962492588,190,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-38,text,true,,1697,191,1,1,https://vi.wikipedia.org/,190,0,128
+1772962492779,265,GET Home Page-2,200,OK,Thread Group 2 2-38,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,85,0,0
+1772962493044,257,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-38,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,115,0,57
+1772962493044,115,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-38,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,115,0,57
+1772962493159,142,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-38,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,72,0,0
+1772962493069,587,GET Home Page,200,OK,Thread Group 2 2-39,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,118,0,57
+1772962493069,118,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-39,,true,,172,191,1,1,http://vi.wikipedia.org/,118,0,57
+1772962493188,202,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-39,text,true,,1638,191,1,1,https://vi.wikipedia.org/,202,0,142
+1772962493390,266,GET Home Page-2,200,OK,Thread Group 2 2-39,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,77,0,0
+1772962493656,217,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-39,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,107,0,50
+1772962493656,107,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-39,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,107,0,50
+1772962493764,109,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-39,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,66,0,0
+1772962493670,543,GET Home Page,200,OK,Thread Group 2 2-40,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,123,0,59
+1772962493670,123,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-40,,true,,172,191,1,1,http://vi.wikipedia.org/,123,0,59
+1772962493793,177,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-40,text,true,,1638,191,1,1,https://vi.wikipedia.org/,177,0,120
+1772962493970,243,GET Home Page-2,200,OK,Thread Group 2 2-40,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,80,0,0
+1772962494213,255,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-40,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,119,0,67
+1772962494213,119,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-40,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,119,0,67
+1772962494332,136,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-40,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,63,0,0
+1772962494271,555,GET Home Page,200,OK,Thread Group 2 2-41,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,111,0,56
+1772962494271,111,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-41,,true,,172,191,1,1,http://vi.wikipedia.org/,111,0,56
+1772962494382,199,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-41,text,true,,1638,191,1,1,https://vi.wikipedia.org/,199,0,143
+1772962494581,245,GET Home Page-2,200,OK,Thread Group 2 2-41,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,75,0,0
+1772962494826,221,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-41,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,115,0,58
+1772962494826,115,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-41,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,115,0,58
+1772962494941,106,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-41,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,64,0,0
+1772962494870,537,GET Home Page,200,OK,Thread Group 2 2-42,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,120,0,61
+1772962494870,120,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-42,,true,,172,191,1,1,http://vi.wikipedia.org/,120,0,61
+1772962494991,175,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-42,text,true,,1638,191,1,1,https://vi.wikipedia.org/,175,0,115
+1772962495166,241,GET Home Page-2,200,OK,Thread Group 2 2-42,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,73,0,0
+1772962495407,267,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-42,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,122,0,61
+1772962495407,122,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-42,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,122,0,61
+1772962495529,145,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-42,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,63,0,0
+1772962495470,585,GET Home Page,200,OK,Thread Group 2 2-43,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,110,0,55
+1772962495470,110,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-43,,true,,172,191,1,1,http://vi.wikipedia.org/,110,0,55
+1772962495580,204,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-43,text,true,,1638,191,1,1,https://vi.wikipedia.org/,204,0,139
+1772962495784,271,GET Home Page-2,200,OK,Thread Group 2 2-43,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,85,0,0
+1772962496055,233,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-43,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,116,0,57
+1772962496055,116,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-43,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,116,0,57
+1772962496171,117,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-43,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,71,0,0
+1772962496070,564,GET Home Page,200,OK,Thread Group 2 2-44,text,true,,162375,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,105,0,50
+1772962496070,105,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-44,,true,,172,191,1,1,http://vi.wikipedia.org/,105,0,50
+1772962496175,190,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-44,text,true,,1693,191,1,1,https://vi.wikipedia.org/,190,0,126
+1772962496365,269,GET Home Page-2,200,OK,Thread Group 2 2-44,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,89,0,0
+1772962496634,255,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-44,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,117,0,60
+1772962496634,117,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-44,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,117,0,60
+1772962496751,138,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-44,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,70,0,0
+1772962496669,551,GET Home Page,200,OK,Thread Group 2 2-45,text,true,,162400,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,125,0,62
+1772962496669,125,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-45,,true,,172,191,1,1,http://vi.wikipedia.org/,125,0,62
+1772962496794,173,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-45,text,true,,1718,191,1,1,https://vi.wikipedia.org/,173,0,114
+1772962496967,253,GET Home Page-2,200,OK,Thread Group 2 2-45,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,87,0,0
+1772962497221,214,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-45,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,111,0,56
+1772962497221,111,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-45,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,111,0,56
+1772962497332,103,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-45,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,59,0,0
+1772962497269,581,GET Home Page,200,OK,Thread Group 2 2-46,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,120,0,61
+1772962497269,120,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-46,,true,,172,191,1,1,http://vi.wikipedia.org/,120,0,61
+1772962497390,191,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-46,text,true,,1638,191,1,1,https://vi.wikipedia.org/,191,0,129
+1772962497581,269,GET Home Page-2,200,OK,Thread Group 2 2-46,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,79,0,0
+1772962497849,272,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-46,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,126,0,64
+1772962497849,126,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-46,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,126,0,64
+1772962497975,146,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-46,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,69,0,0
+1772962497868,521,GET Home Page,200,OK,Thread Group 2 2-47,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,100,0,50
+1772962497868,100,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-47,,true,,172,191,1,1,http://vi.wikipedia.org/,100,0,50
+1772962497968,181,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-47,text,true,,1638,191,1,1,https://vi.wikipedia.org/,181,0,120
+1772962498149,240,GET Home Page-2,200,OK,Thread Group 2 2-47,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,78,0,0
+1772962498389,208,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-47,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,103,0,52
+1772962498389,103,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-47,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,103,0,52
+1772962498492,105,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-47,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,60,0,0
+1772962498481,568,GET Home Page,200,OK,Thread Group 2 2-48,text,true,,162379,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,116,0,56
+1772962498481,116,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-48,,true,,172,191,1,1,http://vi.wikipedia.org/,116,0,56
+1772962498597,186,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-48,text,true,,1697,191,1,1,https://vi.wikipedia.org/,186,0,127
+1772962498783,266,GET Home Page-2,200,OK,Thread Group 2 2-48,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,77,0,0
+1772962499049,244,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-48,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,110,0,50
+1772962499049,110,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-48,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,110,0,50
+1772962499159,134,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-48,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,68,0,0
+1772962499068,543,GET Home Page,200,OK,Thread Group 2 2-49,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,128,0,63
+1772962499068,128,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-49,,true,,172,191,1,1,http://vi.wikipedia.org/,128,0,63
+1772962499197,177,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-49,text,true,,1638,191,1,1,https://vi.wikipedia.org/,177,0,119
+1772962499374,237,GET Home Page-2,200,OK,Thread Group 2 2-49,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,75,0,0
+1772962499611,224,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-49,text,true,,171182,464,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,113,0,57
+1772962499611,113,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-49,,true,,213,232,2,2,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,113,0,57
+1772962499724,111,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-49,text,true,,170969,232,2,2,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,63,0,0
+1772962499668,558,GET Home Page,200,OK,Thread Group 2 2-50,text,true,,162320,594,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,113,0,57
+1772962499668,113,GET Home Page-0,301,Moved Permanently,Thread Group 2 2-50,,true,,172,191,1,1,http://vi.wikipedia.org/,113,0,57
+1772962499782,194,GET Home Page-1,301,Moved Permanently,Thread Group 2 2-50,text,true,,1638,191,1,1,https://vi.wikipedia.org/,194,0,135
+1772962499977,249,GET Home Page-2,200,OK,Thread Group 2 2-50,text,true,,160510,212,1,1,https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh,77,0,0
+1772962500226,233,/wiki/Wikipedia:Giới_thiệu,200,OK,Thread Group 2 2-50,text,true,,171182,464,1,1,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,111,0,54
+1772962500226,111,/wiki/Wikipedia:Giới_thiệu-0,301,Moved Permanently,Thread Group 2 2-50,,true,,213,232,1,1,http://vi.wikipedia.org/wiki/Wikipedia:Giới_thiệu,111,0,54
+1772962500337,122,/wiki/Wikipedia:Giới_thiệu-1,200,OK,Thread Group 2 2-50,text,true,,170969,232,1,1,https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u,67,0,0
