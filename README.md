@@ -23,7 +23,7 @@ Em đã thiết lập 3 nhóm người dùng (Thread Groups) với các hành vi
 * **HTTP Request Defaults:** Quản lý tập trung URL `vi.wikipedia.org` và giao thức `https`.
 
 ## 4. Phân tích kết quả
-* **Tính ổn định:** Hệ thống đạt tỉ lệ lỗi tuyệt đối **0.00%**. Điều này cho thấy việc áp dụng User-Agent và Timer đã giải quyết hoàn toàn vấn đề bị máy chủ chặn truy cập ban đầu.
+* **Tính ổn định:** Hệ thống đạt tỉ lệ lỗi tuyệt đối **0.00%**.
 * **Thời gian phản hồi:** Thời gian phản hồi trung bình toàn hệ thống là **503ms**. Trang chủ phản hồi rất nhanh (358ms), trong khi Trang Portal tốn nhiều thời gian nhất (1021ms), có thể do chứa nhiều nội dung hoặc tài nguyên nặng hơn.
 * **Thông lượng:** Hệ thống xử lý ổn định ở mức **2.7 yêu cầu mỗi giây** với cấu hình tải đã thiết lập.
 
